@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076711505335",
+    "project_id": "tokotofyp",
+    "storage_bucket": "tokotofyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076711505335:android:4d1fcbc99c92274058bc32",
+        "android_client_info": {
+          "package_name": "com.example.fyp_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJC7JHcjyYF-xVjsDaGWfDkKm6bHS7enU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076711505335:android:410be600a4bc5a1f58bc32",
+        "android_client_info": {
+          "package_name": "com.example.seller_side"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJC7JHcjyYF-xVjsDaGWfDkKm6bHS7enU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
